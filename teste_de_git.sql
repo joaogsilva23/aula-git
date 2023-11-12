@@ -4,3 +4,5 @@ teste de git
 
 uso comando
 *comando git push
+
+*comando git pull
